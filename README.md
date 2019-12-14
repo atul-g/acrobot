@@ -1,5 +1,5 @@
 # DQN for OpenAI Acrobot
-Creating a Deep Q-Network which helps the OpenAI gym's classic [Acrobot-v1](https://gym.openai.com/envs/Acrobot-v1/) to learn to cross a line by swinging back or forth from a pole.
+Creating a Deep Q-Network which helps the OpenAI gym's classic [Acrobot-v1](https://gym.openai.com/envs/Acrobot-v1/) to learn to cross a line by swinging back and forth on a pole.
 
 ![imghere](https://raw.githubusercontent.com/atul-g/acrobot/master/sample_acrobot%20.png)
 
