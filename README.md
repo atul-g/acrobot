@@ -8,7 +8,7 @@ The code used is mainly derived from [here](https://pythonprogramming.net/traini
 
 After training for 5000 episodes with a small dense neural network, it was able to achieve a 100-episode average result of around -83. (Acrobot-v1 does not have a specified reward threshold at which it's considered solved.) 
 
-The number of episodes and the dense neural network architecture can be changed to get better results. Open `acrobot_training_without_img.py` for the code.
+The number of episodes and the dense neural network architecture can be changed to get better results. Open `acrobot_learning_without_img.py` for the code.
 
 ## Preview
 #### At episode 940:
