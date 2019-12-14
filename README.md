@@ -24,5 +24,5 @@ The number of episodes and the dense neural network architecture can be changed 
 
 
 ## Using the model:
-The model has been saved as `main_model.h5`. It can be loaded again using Keras's `model.load_model` function and used to play
+The model has been saved as `main_model.h5`. It can be used elsewhere using Keras's `model.load_model` function and used to play
 the games again. The corresponding file doing this is `playing_acrobot.py`.
